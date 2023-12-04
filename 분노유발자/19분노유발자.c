@@ -5,13 +5,13 @@ int main(void) {
 	int n = 0;
 	int cnt = 0, a = 0;
 
-	scanf("%d", &n);
+	scanf_s("%d", &n);
 
 	for (int i = 0; i < n; i++) {
-		scanf("%d", &height[i]);
+		scanf_s("%d", &height[i]);
 	}
 
-	// 내 코드
+	// 내가 짠 코드
 	for (int i = 0; i < n - 1; i++) {
 		a = 0;
 		for (int j = i + 1; j < n; j++) {
@@ -24,7 +24,7 @@ int main(void) {
 			cnt++;
 	}
 
-	// 강의 코드
+	// 코테 강의 코드
 	//int max = height[n-1];
 	//for (int i = n - 2; i >= 0; i--) {
 	//	if (height[i] > max) {
