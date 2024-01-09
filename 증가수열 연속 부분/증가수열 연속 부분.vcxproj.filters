@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="연습.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="연습(c++).cpp">
+    <ClCompile Include="23_증가수열 연속 부분.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

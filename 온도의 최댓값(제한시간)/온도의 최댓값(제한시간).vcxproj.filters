@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="연습.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="연습(c++).cpp">
+    <ClCompile Include="22_온도의 최댓값.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

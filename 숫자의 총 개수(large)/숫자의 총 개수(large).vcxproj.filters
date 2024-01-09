@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="연습.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="연습(c++).cpp">
+    <ClCompile Include="12_숫자의 총 개수(large).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

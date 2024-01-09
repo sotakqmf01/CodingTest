@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{b71a0a28-a7d2-4967-95d2-cb374f4a8283}</ProjectGuid>
-    <RootNamespace>분노유발자</RootNamespace>
+    <ProjectGuid>{192c3c33-3dd7-4a56-ba7c-e21423db1e84}</ProjectGuid>
+    <RootNamespace>증가수열연속부분</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="19_분노 유발자.c" />
+    <ClCompile Include="23_증가수열 연속 부분.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

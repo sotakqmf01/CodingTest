@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="19분노유발자.c">
+    <ClCompile Include="19_분노 유발자.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
