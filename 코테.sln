@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "모두의 약수", "모두�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "숫자의 총 개수(large)", "숫자의 총 개수(large)\숫자의 총 개수(large).vcxproj", "{E5A350FF-D8E6-4BA0-8537-1E4824207002}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "날짜 계산기", "날짜 계산기\날짜 계산기.vcxproj", "{B0AC53F4-C803-4DC2-8085-772A52453B55}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{E5A350FF-D8E6-4BA0-8537-1E4824207002}.Release|x64.Build.0 = Release|x64
 		{E5A350FF-D8E6-4BA0-8537-1E4824207002}.Release|x86.ActiveCfg = Release|Win32
 		{E5A350FF-D8E6-4BA0-8537-1E4824207002}.Release|x86.Build.0 = Release|Win32
+		{B0AC53F4-C803-4DC2-8085-772A52453B55}.Debug|x64.ActiveCfg = Debug|x64
+		{B0AC53F4-C803-4DC2-8085-772A52453B55}.Debug|x64.Build.0 = Debug|x64
+		{B0AC53F4-C803-4DC2-8085-772A52453B55}.Debug|x86.ActiveCfg = Debug|Win32
+		{B0AC53F4-C803-4DC2-8085-772A52453B55}.Debug|x86.Build.0 = Debug|Win32
+		{B0AC53F4-C803-4DC2-8085-772A52453B55}.Release|x64.ActiveCfg = Release|x64
+		{B0AC53F4-C803-4DC2-8085-772A52453B55}.Release|x64.Build.0 = Release|x64
+		{B0AC53F4-C803-4DC2-8085-772A52453B55}.Release|x86.ActiveCfg = Release|Win32
+		{B0AC53F4-C803-4DC2-8085-772A52453B55}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
