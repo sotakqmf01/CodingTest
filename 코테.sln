@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "숫자의 총 개수(large)
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "날짜 계산기", "날짜 계산기\날짜 계산기.vcxproj", "{B0AC53F4-C803-4DC2-8085-772A52453B55}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C++STLGrammarPractice", "C++STLGrammarPractice\C++STLGrammarPractice.vcxproj", "{8DD38B8E-B561-48D4-942E-7A4A0D7CF5F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -111,6 +113,14 @@ Global
 		{B0AC53F4-C803-4DC2-8085-772A52453B55}.Release|x64.Build.0 = Release|x64
 		{B0AC53F4-C803-4DC2-8085-772A52453B55}.Release|x86.ActiveCfg = Release|Win32
 		{B0AC53F4-C803-4DC2-8085-772A52453B55}.Release|x86.Build.0 = Release|Win32
+		{8DD38B8E-B561-48D4-942E-7A4A0D7CF5F8}.Debug|x64.ActiveCfg = Debug|x64
+		{8DD38B8E-B561-48D4-942E-7A4A0D7CF5F8}.Debug|x64.Build.0 = Debug|x64
+		{8DD38B8E-B561-48D4-942E-7A4A0D7CF5F8}.Debug|x86.ActiveCfg = Debug|Win32
+		{8DD38B8E-B561-48D4-942E-7A4A0D7CF5F8}.Debug|x86.Build.0 = Debug|Win32
+		{8DD38B8E-B561-48D4-942E-7A4A0D7CF5F8}.Release|x64.ActiveCfg = Release|x64
+		{8DD38B8E-B561-48D4-942E-7A4A0D7CF5F8}.Release|x64.Build.0 = Release|x64
+		{8DD38B8E-B561-48D4-942E-7A4A0D7CF5F8}.Release|x86.ActiveCfg = Release|Win32
+		{8DD38B8E-B561-48D4-942E-7A4A0D7CF5F8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
